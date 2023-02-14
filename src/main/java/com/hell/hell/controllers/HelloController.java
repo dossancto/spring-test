@@ -13,6 +13,6 @@ public class HelloController{
 
   @GetMapping("/apple")
   public String apple(){
-    return "Apple é coisa de viado";
+    return "Apple é ótimo.";
   }
 }
