@@ -1,4 +1,4 @@
-package com.hell.hell;
+package com.hell.hell.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
